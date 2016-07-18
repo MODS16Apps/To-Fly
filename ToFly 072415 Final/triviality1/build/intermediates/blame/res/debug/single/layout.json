@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_incorrect_answer.xml",
+        "source": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\src\\main\\res\\layout\\activity_incorrect_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_correctanswer.xml",
+        "source": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\src\\main\\res\\layout\\activity_correctanswer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz.xml",
+        "source": "C:\\Users\\Justin Chacko\\Documents\\GitHub\\To-Fly\\ToFly 072415 Final\\triviality1\\src\\main\\res\\layout\\activity_quiz.xml"
+    }
+]
