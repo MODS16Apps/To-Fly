@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Fly</string>
+    <string name="actionbar_settings">Credits</string>
+
+    <!--Text for the credits page-->
+    <string name="creditsHead">Special thanks to...</string>
+
+    <string name="credits_info1">Museum of Discovery and Science APPtitude Internship Program - Summer Scarlatelli, Joe Cytacki</string>
+    <string name="credits_info2">FAU Staff - Dr. Shankar, Professor McAfee, Santiago Aguerrevere, Demetrius Dukes,
+    Alain Edwards, Dr. Mitsova-Boneva</string>
+</resources>
