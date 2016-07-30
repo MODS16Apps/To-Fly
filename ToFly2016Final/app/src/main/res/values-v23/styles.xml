@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="TransparentTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+
+
+</resources>
